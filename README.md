@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aryan1165&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan1165&" alt="abhaygzb15" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan1165&show_icons=true&locale=en&layout=compact" alt="abhaygzb15" /></p>
