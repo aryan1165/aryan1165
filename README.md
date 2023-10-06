@@ -16,10 +16,15 @@
         <a href="https://twitter.com/aryan_1165"> 	<img align ="bottom" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Aryan's Twitter profile" height="40"/></a>
 </p>
 
-<p><a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=aryan1165&theme=dark"/></a>
-</p>
- 
-<p>&nbsp <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aryan1165&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></p>
+<div align="center">
+   
+<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aryan1165&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</div>
 
+<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aryan1165&theme=dark"/></a>
+</div>
+
+ 
 
 
