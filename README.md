@@ -5,7 +5,7 @@
   I'm a second year undergrad at <a href="https://cic.du.ac.in/"> Cluster Innovation Centre, DU</a>, exploring the fast evolving world of technology. My interests in the field of tech includes AI/ML, Cyber Security and Web Development. </p>
 
   <p> <ul>
-    <li> 🌱 Currently learning Web Development</li>
+    <li> 🌱 Currently exploring Deep Learning frameworks</li>
     <li> 🔭 Working on Machine Learning Algorithms</li>
     <li> 👯 Looking forward to contribute in Open-Source </li>
   </ul>
