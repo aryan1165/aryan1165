@@ -2,11 +2,11 @@
 
 
 <p align="justify">
-  I'm a second year undergrad at <a href="https://cic.du.ac.in/"> Cluster Innovation Centre, DU</a>, exploring the fast evolving world of technology. My interests in the field of tech includes AI/ML, Cyber Security and Web Development. </p>
+  I'm a B.Tech sophomore at <a href="https://cic.du.ac.in/"> Cluster Innovation Centre, DU</a>, exploring the fast evolving world of technology. My interests in the field of tech includes AI/ML, Cyber Security and Web Development. </p>
 
   <p> <ul>
-    <li> 🌱 Currently exploring Deep Learning frameworks</li>
-    <li> 🔭 Working on Machine Learning Algorithms</li>
+    <li> 🌱 Currently exploring Natural Language Processing</li>
+    <li> 🔭 Working on Deep Learning frameworks</li>
     <li> 👯 Looking forward to contribute in Open-Source </li>
   </ul>
     </p>
